@@ -1,0 +1,19 @@
+{
+    "name": "hello-marketplace",
+    "metadata": {
+        "description": "Basic marketplace",
+        "version": "1.0.0",
+        "pluginRoot": "./plugins"
+    },
+    "owner": {
+        "name": "Build 2026 Lab 502"
+    },
+    "plugins": [
+        {
+            "name": "hello",
+            "source": "hello",
+            "description": "Hello World",
+            "version": "1.0.0"
+        }
+    ]
+}
