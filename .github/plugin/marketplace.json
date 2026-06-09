@@ -2,7 +2,7 @@
     "name": "hello-marketplace",
     "metadata": {
         "description": "Basic marketplace",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "pluginRoot": "./plugins"
     },
     "owner": {
@@ -13,7 +13,7 @@
             "name": "hello",
             "source": "hello",
             "description": "Hello World",
-            "version": "1.0.1"
+            "version": "1.0.2"
         }
     ]
 }
