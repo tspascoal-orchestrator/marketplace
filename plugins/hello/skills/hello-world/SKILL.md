@@ -5,4 +5,4 @@ user-invocable: true
 disable-model-invocation: false
 ---
 
-Say Hello World
+Say Hello World from skill.
