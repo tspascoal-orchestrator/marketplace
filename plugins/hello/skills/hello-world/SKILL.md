@@ -1,6 +1,6 @@
 ---
 name: hello-world
-description: Basic skill that only know how to say hello
+description: Basic skill that only knows how to say hello
 user-invocable: true
 disable-model-invocation: false
 ---
