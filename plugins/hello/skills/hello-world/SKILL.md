@@ -1,4 +1,4 @@
-.---
+---
 name: hello-world
 description: Basic skill that only knows how to say hello hello
 user-invocable: true
